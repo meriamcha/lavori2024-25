@@ -1,4 +1,4 @@
-package sincro;
+package sincrocoppie;
 
 public class Contatore {
 	private int n;//creo la variabile del conto
